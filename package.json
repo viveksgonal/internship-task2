@@ -19,6 +19,7 @@
     "express-async-handler": "^1.2.0",
     "flatted": "^3.2.5",
     "googleapis": "^95.0.0",
+    "heroku": "^7.59.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.1",
     "mongoose-sequence": "^5.3.1",
